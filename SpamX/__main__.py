@@ -13,8 +13,8 @@ from . import (StarX, StarX2, StarX3, StarX4, StarX5,
 
 if StarX:
     StarX.start()
-    StarX.join_chat("Star_X_Network")
-    StarX.join_chat("Star_X_Support")
+    StarX.join_chat("ODDRAGONS")
+    StarX.join_chat("DragonaboutDpz")
 if StarX2:
     StarX2.start()
     StarX2.join_chat("Star_X_Network")
