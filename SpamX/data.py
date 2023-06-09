@@ -1,10 +1,10 @@
-GRP = "@Star_X_Support"
+GRP = "DragonaboutDpz"
 
-GROUP = [-1001981660077]
+GROUP = [-1001608123843]
 
-RiZoeLX = [5463205082]
+RiZoeLX = [6272694477]
 
-Owners = "@its_star_boi"
+Owners = "@EAGLE_BACK"
 
 REPLYRAID = [
     "𝙈𝘼𝘿𝘼𝙍𝘾𝙃𝙊𝘿",
