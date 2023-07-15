@@ -54,7 +54,7 @@ syntax:
 syntax:
  {hl}fspam (count) (message to spam)
  
-**Note:** Fast Spam Is Harmful for IDs Don't Blame to @its_star_boi If IDs Get ban -!
+**Note:** Fast Spam Is Harmful for IDs Don't Blame to @EAGLE_BACK If IDs Get ban -!
 
 
 **pornspam**: Porn Spam for given counter.
