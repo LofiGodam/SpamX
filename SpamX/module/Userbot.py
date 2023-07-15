@@ -15,9 +15,9 @@ from pyrogram.types import Message
 from pyrogram import __version__ as pyro_vr             
                 
 
-pongg = PING_MSG if PING_MSG else "$ᴛᴀʀ X sᴘᴀᴍ"
-STAR_PIC = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/252fc4a5c64895b0e539c.jpg"
-Alivemsg = ALIVE_MSG if ALIVE_MSG else "𝗦𝘁𝗮𝗿 𝗫 𝗦𝗽𝗮𝗺 𝗛𝗲𝗿𝗲."
+pongg = PING_MSG if PING_MSG else "ᴇᴀɢʟᴇ X sᴘᴀᴍ"
+STAR_PIC = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/56079a3adea21f6d905bd.jpg"
+Alivemsg = ALIVE_MSG if ALIVE_MSG else "𝗘𝗮𝗴𝗹𝗲 𝗫 𝗦𝗽𝗮𝗺 𝗛𝗲𝗿𝗲."
 
 
 star = f"⁂ {Alivemsg} ⁂\n\n"
@@ -25,9 +25,9 @@ star += f"━───────╯•╰───────━\n"
 star += f"➠ **ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ** : `3.10.4`\n"
 star += f"➠ **ᴘʏʀᴏɢʀᴀᴍ ᴠᴇʀsɪᴏɴ** : `{pyro_vr}`\n"
 star += f"➠ **SᴘᴀᴍX ᴠᴇʀsɪᴏɴ**  : `{__version__}`\n"
-star += f"➠ **ᴄʜᴀɴɴᴇʟ** : [Join.](https://t.me/Star_X_Network)\n"
+star += f"➠ **ᴄʜᴀɴɴᴇʟ** : [Join.](https://t.me/DragonaboutDpz)\n"
 star += f"━───────╮•╭───────━\n\n"
-star += f"➠ **Source Code:** [•Repo•](https://t.me/DragonaboutDpz)"
+star += f"➠ **Source Code:** [•Repo•](https://t.me/KNOW_WHO_IAM)"
 
 
 async def get_time(seconds: int) -> str:
