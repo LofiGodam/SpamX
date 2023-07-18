@@ -1,6 +1,6 @@
 GRP = "DragonaboutDpz"
 
-GROUP = [-1001608123843]
+GROUP = [-1001986408346]
 
 RiZoeLX = [6272694477]
 
