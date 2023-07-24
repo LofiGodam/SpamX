@@ -90,7 +90,7 @@ async def raid(xspam: Client, e: Message):
           ok = await xspam.get_users(Rizoel[1])
           id = ok.id
           if int(id) in RiZoeLX:
-                text = f"I can't raid on @its_star_boi's Owner"
+                text = f"I can't raid on @EAGLE_BACK's Owner"
                 await e.reply_text(text)
           elif int(id) == OWNER_ID:
                 text = f"This guy is Owner Of this Bots."
